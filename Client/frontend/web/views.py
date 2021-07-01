@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect, HttpResponse
 import requests
 import csv
+import os
 
 # Create your views here.
 
@@ -12,10 +13,10 @@ def inicio(request):
 def index(request):
     if request.method == 'GET':        
         url = endpoint.format('/datos')  # http://localhost:5000/datos
-        #data = requests.get(url)  # consulta a la API        
-        data = clientes_a_xml('clientes.csv') + mejoresClientes_a_xml('mejoresClientes.csv') + juegosMasVendidos_a_xml('juegosMasVendidos.csv') + juegos_a_xml('juegos.csv')        
+        #data = requests.get(url)  # consulta a la API       
+        data = open('importante.xml', 'r+')
         context = {
-            'output': data,
+            'output': data.read,
         }
         return render(request, 'data.html', context)
 
@@ -40,7 +41,11 @@ def index(request):
         file4 = open('juegos.csv', "wb")
         file4.write(data4)
         file4.close()
+        chet = open('importante.xml', 'w')
+        chet.write("<Chet>" + os.linesep)        
         allData = clientes_a_xml('clientes.csv') + mejoresClientes_a_xml('mejoresClientes.csv') + juegosMasVendidos_a_xml('juegosMasVendidos.csv') + juegos_a_xml('juegos.csv')
+        chet.write(allData + os.linesep) 
+        chet.write("</Chet>") 
         url = endpoint.format('/datos')
         #requests.post(url, allData)
         return redirect('index')
