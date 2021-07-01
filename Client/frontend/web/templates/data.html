@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">  
+  <style>
+    h5{
+      background: cornsilk;
+    }
+  </style>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ventana de carga</title>    
+  </head>
+  <body>
+    {% include "navbar/barra.html" %}    
+    <h1>Frontend</h1>
+    <h1>Cargar Archivos</h1>
+    <h5>Clientes-------------------------------------Mejores Clientes --------------------------Juegos mas vendidos---------------------Juegos-------------------------------------------------------------------------------------</h5>
+    <form method="POST" enctype="multipart/form-data">
+      {% csrf_token %}
+      <input type="file" name="document" id="document" />
+      <input type="file" name="document2" id="document2" />
+      <input type="file" name="document3" id="document3" />
+      <input type="file" name="document4" id="document4" />
+      <input type="submit" value="Enviar archivos" />
+    </form>     
+    {% include "areatext.html" %}
+    
+  </body>
+</html>

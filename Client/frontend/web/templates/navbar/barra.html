@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+    <style>
+        /* -------------    SECTIONS  --------------*/
+
+
+/* ------------- GENERAL STYLE--------------*/
+a{
+    color: inherit;
+}
+
+body{
+   background-image: url('http://1.bp.blogspot.com/-kQLtv-jHvXM/Ul668gIlwHI/AAAAAAAAJw4/1Vl6lpmMkbg/s1600/con-movimiento1.gif');
+   
+}
+
+
+/* ------------- Nav --------------*/
+.navbar-brand >img{
+    width: 80px;
+}
+
+.navbar-main .active{
+    text-decoration: underline darkred;
+    text-underline-offset: 9px;
+}
+    </style>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--  CSS Boostrap5  -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!--  CSS main  -->
+</head>
+<body>
+  <!--  NAVBAR  -->
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light navbar-main">
+    <div class="container-fluid">
+      <!-- Branding -->
+      <a href="#" class= "navbar-brand">
+        <img src="https://aprende.guatemala.com/wp-content/uploads/2016/09/guatemala-universidaddesancarlos.jpg" alt="Brand Geuz">
+      </a>
+      <!-- Btn -->
+      <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav"
+      aria-expanded="false" aria-label="Barra de navegacion">
+      <span class="navbar-toggle-icon"></span>
+    </button>      
+      <!-- Items -->
+      <div class="collapse navbar-collapse" id="mainNav">
+        <div class="nav ms-auto text-dark">
+          <a class="nav-link " href="http://localhost:8000/">Inicio</a>
+          <a class="nav-link " href="http://localhost:8000/carga">Cargar archivo</a>
+          <a class="nav-link " href="http://localhost:8000/peticiones">Peticiones</a>
+          <a class="nav-link " href="http://localhost:8000/help">Ayuda</a>
+      </div>      
+    </div>
+  </nav>
+</body>
+</html>
