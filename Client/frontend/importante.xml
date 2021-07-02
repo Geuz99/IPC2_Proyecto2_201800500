@@ -1,196 +1,136 @@
 <Chet>
 <clientes>
-    <nombre>Anderson</nombre>
-    <apellido>Zuleta</apellido>
-    <edad>22</edad>
-    <fechaCumpleagnos>06/05/1999</fechaCumpleagnos>
-    <fechaPrimeraCompra>28/06/2021</fechaPrimeraCompra>
+    <nombre>Alejandro</nombre>
+    <apellido>Herrera</apellido>
+    <edad>28</edad>
+    <fechaCumpleagnos>13/05/1993</fechaCumpleagnos>
+    <fechaPrimeraCompra>25/03/2021</fechaPrimeraCompra>
 </clientes>
 <clientes>
-    <nombre>Allan</nombre>
-    <apellido>Morales</apellido>
-    <edad>14</edad>
-    <fechaCumpleagnos>02/12/2006</fechaCumpleagnos>
-    <fechaPrimeraCompra>06/01/2015</fechaPrimeraCompra>
+    <nombre>Emilio</nombre>
+    <apellido>Vega</apellido>
+    <edad>29</edad>
+    <fechaCumpleagnos>28/09/1991</fechaCumpleagnos>
+    <fechaPrimeraCompra>20/07/2020</fechaPrimeraCompra>
 </clientes>
 <clientes>
-    <nombre>Pablo </nombre>
-    <apellido>Pschaart</apellido>
-    <edad>35</edad>
-    <fechaCumpleagnos>04/09/1986</fechaCumpleagnos>
-    <fechaPrimeraCompra>01/01/2000</fechaPrimeraCompra>
+    <nombre>Andres</nombre>
+    <apellido>Rodriguez</apellido>
+    <edad>31</edad>
+    <fechaCumpleagnos>14/11/1989</fechaCumpleagnos>
+    <fechaPrimeraCompra>22/08/2020</fechaPrimeraCompra>
 </clientes>
 <clientes>
-    <nombre>Karen</nombre>
-    <apellido>Galdamez</apellido>
-    <edad>27</edad>
-    <fechaCumpleagnos>02/01/1994</fechaCumpleagnos>
-    <fechaPrimeraCompra>15/05/2015</fechaPrimeraCompra>
+    <nombre>Silvia</nombre>
+    <apellido>Calderon</apellido>
+    <edad>29</edad>
+    <fechaCumpleagnos>12/05/1992</fechaCumpleagnos>
+    <fechaPrimeraCompra>25/10/2020</fechaPrimeraCompra>
 </clientes>
 <clientes>
-    <nombre>Wilmer</nombre>
-    <apellido>Velazquez</apellido>
-    <edad>22</edad>
-    <fechaCumpleagnos>05/01/1999</fechaCumpleagnos>
-    <fechaPrimeraCompra>10/11/2020</fechaPrimeraCompra>
+    <nombre>Lisbeth</nombre>
+    <apellido>Tejeda</apellido>
+    <edad>30</edad>
+    <fechaCumpleagnos>25/02/1991</fechaCumpleagnos>
+    <fechaPrimeraCompra>14/06/2021</fechaPrimeraCompra>
 </clientes><mejoresClientes>
-    <nombre>Abdul</nombre>
-    <fechaUltimaCompra>22/06/2021</fechaUltimaCompra>
-    <cantidadComprada>6</cantidadComprada>
-    <cantidadGastada>235</cantidadGastada>
+    <nombre>Alejandro Herrera</nombre>
+    <fechaUltimaCompra>25/06/2021</fechaUltimaCompra>
+    <cantidadComprada>253</cantidadComprada>
+    <cantidadGastada>126500.35</cantidadGastada>
 </mejoresClientes>
 <mejoresClientes>
-    <nombre>Juan Gaitan</nombre>
-    <fechaUltimaCompra>23/06/2021</fechaUltimaCompra>
-    <cantidadComprada>10</cantidadComprada>
-    <cantidadGastada>1000</cantidadGastada>
+    <nombre>Emilio Vega</nombre>
+    <fechaUltimaCompra>27/05/2021</fechaUltimaCompra>
+    <cantidadComprada>21</cantidadComprada>
+    <cantidadGastada>10500</cantidadGastada>
 </mejoresClientes>
 <mejoresClientes>
-    <nombre>Daniel</nombre>
-    <fechaUltimaCompra>12/09/2020</fechaUltimaCompra>
-    <cantidadComprada>4</cantidadComprada>
-    <cantidadGastada>150</cantidadGastada>
+    <nombre>Andres Rodriguez</nombre>
+    <fechaUltimaCompra>14/06/2021</fechaUltimaCompra>
+    <cantidadComprada>12</cantidadComprada>
+    <cantidadGastada>6000</cantidadGastada>
 </mejoresClientes>
 <mejoresClientes>
-    <nombre>Jose</nombre>
-    <fechaUltimaCompra>10/06/2021</fechaUltimaCompra>
-    <cantidadComprada>6</cantidadComprada>
-    <cantidadGastada>10000</cantidadGastada>
-</mejoresClientes>
-<mejoresClientes>
-    <nombre>Eduardo </nombre>
-    <fechaUltimaCompra>30/06/2021</fechaUltimaCompra>
-    <cantidadComprada>15</cantidadComprada>
-    <cantidadGastada>750</cantidadGastada>
-</mejoresClientes>
-<mejoresClientes>
-    <nombre>Jose</nombre>
-    <fechaUltimaCompra>15/12/2020</fechaUltimaCompra>
-    <cantidadComprada>15</cantidadComprada>
+    <nombre>Silvia Calderon</nombre>
+    <fechaUltimaCompra>12/05/2021</fechaUltimaCompra>
+    <cantidadComprada>3</cantidadComprada>
     <cantidadGastada>1500</cantidadGastada>
 </mejoresClientes>
 <mejoresClientes>
-    <nombre>Pablo Ramirez</nombre>
-    <fechaUltimaCompra>11/12/2020</fechaUltimaCompra>
+    <nombre>Lisbeth Tejeda</nombre>
+    <fechaUltimaCompra>03/01/2021</fechaUltimaCompra>
     <cantidadComprada>2</cantidadComprada>
-    <cantidadGastada>950</cantidadGastada>
-</mejoresClientes>
-<mejoresClientes>
-    <nombre>Walther</nombre>
-    <fechaUltimaCompra>22/08/2020</fechaUltimaCompra>
-    <cantidadComprada>3</cantidadComprada>
     <cantidadGastada>1000</cantidadGastada>
 </mejoresClientes>
 <mejoresClientes>
-    <nombre>Zenaida </nombre>
-    <fechaUltimaCompra>24/02/2021</fechaUltimaCompra>
-    <cantidadComprada>6</cantidadComprada>
-    <cantidadGastada>3000</cantidadGastada>
+    <nombre>Andres Rodriguez</nombre>
+    <fechaUltimaCompra>16/06/2021</fechaUltimaCompra>
+    <cantidadComprada>3</cantidadComprada>
+    <cantidadGastada>1500</cantidadGastada>
+</mejoresClientes>
+<mejoresClientes>
+    <nombre>Emilio Vega</nombre>
+    <fechaUltimaCompra>01/07/2021</fechaUltimaCompra>
+    <cantidadComprada>21</cantidadComprada>
+    <cantidadGastada>10500</cantidadGastada>
 </mejoresClientes><juegosMasVendidos>
-    <nombre>Genshin Impact</nombre>
-    <fechaUltimaCompra>15/05/2021</fechaUltimaCompra>
-    <copiasVendidas>230</copiasVendidas>
+    <nombre>Mario Kart 8 Deluxe</nombre>
+    <fechaUltimaCompra>30/06/2021</fechaUltimaCompra>
+    <copiasVendidas>125</copiasVendidas>
+    <stock>7</stock>
+</juegosMasVendidos>
+<juegosMasVendidos>
+    <nombre>Animal Crossing: New Horizons</nombre>
+    <fechaUltimaCompra>01/07/2021</fechaUltimaCompra>
+    <copiasVendidas>100</copiasVendidas>
+    <stock>3</stock>
+</juegosMasVendidos>
+<juegosMasVendidos>
+    <nombre>Resident Evil Village</nombre>
+    <fechaUltimaCompra>25/06/2021</fechaUltimaCompra>
+    <copiasVendidas>12</copiasVendidas>
+    <stock>10</stock>
+</juegosMasVendidos>
+<juegosMasVendidos>
+    <nombre>Assassin's Creed Valhalla</nombre>
+    <fechaUltimaCompra>25/06/2021</fechaUltimaCompra>
+    <copiasVendidas>4</copiasVendidas>
     <stock>20</stock>
 </juegosMasVendidos>
 <juegosMasVendidos>
-    <nombre>Doom</nombre>
-    <fechaUltimaCompra>27/06/2021</fechaUltimaCompra>
+    <nombre>call of duty modern warfare</nombre>
+    <fechaUltimaCompra>01/07/2021</fechaUltimaCompra>
     <copiasVendidas>25</copiasVendidas>
-    <stock>17</stock>
-</juegosMasVendidos>
-<juegosMasVendidos>
-    <nombre>Cheggs</nombre>
-    <fechaUltimaCompra>12/09/2018</fechaUltimaCompra>
-    <copiasVendidas>5</copiasVendidas>
-    <stock>8</stock>
-</juegosMasVendidos>
-<juegosMasVendidos>
-    <nombre>Splatoon</nombre>
-    <fechaUltimaCompra>22/06/2021</fechaUltimaCompra>
-    <copiasVendidas>500</copiasVendidas>
-    <stock>26</stock>
-</juegosMasVendidos>
-<juegosMasVendidos>
-    <nombre>Mario kart</nombre>
-    <fechaUltimaCompra>23/06/2021</fechaUltimaCompra>
-    <copiasVendidas>2000</copiasVendidas>
-    <stock>100</stock>
-</juegosMasVendidos>
-<juegosMasVendidos>
-    <nombre>Smash</nombre>
-    <fechaUltimaCompra>8/08/2018</fechaUltimaCompra>
-    <copiasVendidas>100</copiasVendidas>
-    <stock>2000</stock>
-</juegosMasVendidos>
-<juegosMasVendidos>
-    <nombre>E.T. The Extra-Terrestrial</nombre>
-    <fechaUltimaCompra>3/12/1990</fechaUltimaCompra>
-    <copiasVendidas>500</copiasVendidas>
-    <stock>1</stock>
-</juegosMasVendidos>
-<juegosMasVendidos>
-    <nombre>The Last of Us</nombre>
-    <fechaUltimaCompra>30/12/2020</fechaUltimaCompra>
-    <copiasVendidas>1000</copiasVendidas>
-    <stock>23</stock>
-</juegosMasVendidos>
-<juegosMasVendidos>
-    <nombre>Minecraft</nombre>
-    <fechaUltimaCompra>22/06/2021</fechaUltimaCompra>
-    <copiasVendidas>50</copiasVendidas>
-    <stock>10</stock>
+    <stock>2</stock>
 </juegosMasVendidos><juegos>
-    <nombre>Call of Dutty MW3</nombre>
-    <plataforma>PS3</plataforma>
-    <agnoLanzamiento>2014</agnoLanzamiento>
-    <clasificacion>T</clasificacion>
-</juegos>
-<juegos>
-    <nombre>Fortnite</nombre>
-    <plataforma>PS4</plataforma>
-    <agnoLanzamiento>2015</agnoLanzamiento>
-    <clasificacion>E</clasificacion>
-</juegos>
-<juegos>
-    <nombre>Chegg</nombre>
-    <plataforma>PC</plataforma>
-    <agnoLanzamiento>2001</agnoLanzamiento>
-    <clasificacion>T</clasificacion>
-</juegos>
-<juegos>
-    <nombre>Bloodborne </nombre>
-    <plataforma>Ps4</plataforma>
-    <agnoLanzamiento>2017</agnoLanzamiento>
-    <clasificacion>M</clasificacion>
-</juegos>
-<juegos>
-    <nombre>Nba2k</nombre>
-    <plataforma>Ps4</plataforma>
-    <agnoLanzamiento>2021</agnoLanzamiento>
-    <clasificacion>T</clasificacion>
-</juegos>
-<juegos>
-    <nombre>Banjo-Kazooie</nombre>
-    <plataforma>Consola</plataforma>
-    <agnoLanzamiento>1997</agnoLanzamiento>
-    <clasificacion>E</clasificacion>
-</juegos>
-<juegos>
-    <nombre>The Elded Scrolls V: Skyrim</nombre>
-    <plataforma>PS4</plataforma>
-    <agnoLanzamiento>2011</agnoLanzamiento>
-    <clasificacion>M</clasificacion>
-</juegos>
-<juegos>
-    <nombre>Uncharted 5</nombre>
-    <plataforma>Digital</plataforma>
+    <nombre>Mario Kart 8 Deluxe</nombre>
+    <plataforma>Nintendo Switch</plataforma>
     <agnoLanzamiento>2018</agnoLanzamiento>
     <clasificacion>E</clasificacion>
 </juegos>
 <juegos>
-    <nombre>The Legend of Zelda: Ocarina of Time</nombre>
-    <plataforma>Nintendo iQue</plataforma>
-    <agnoLanzamiento>1998</agnoLanzamiento>
+    <nombre>Animal Crossing: New Horizons</nombre>
+    <plataforma>Nintendo Switch</plataforma>
+    <agnoLanzamiento>2020</agnoLanzamiento>
     <clasificacion>E</clasificacion>
+</juegos>
+<juegos>
+    <nombre>Resident Evil Village</nombre>
+    <plataforma>Xbox One</plataforma>
+    <agnoLanzamiento>2021</agnoLanzamiento>
+    <clasificacion>M</clasificacion>
+</juegos>
+<juegos>
+    <nombre>Assassin's Creed Valhalla</nombre>
+    <plataforma>PlayStation 4</plataforma>
+    <agnoLanzamiento>2020</agnoLanzamiento>
+    <clasificacion>M</clasificacion>
+</juegos>
+<juegos>
+    <nombre>call of duty modern warfare</nombre>
+    <plataforma>Microsoft Windows</plataforma>
+    <agnoLanzamiento>2019</agnoLanzamiento>
+    <clasificacion>M</clasificacion>
 </juegos>
 </Chet>

@@ -22,4 +22,5 @@ urlpatterns = [
     path('', views.inicio, name='inicio'),
     path('carga/', views.index, name='index'),
     path('help/', views.ayuda, name='ayuda'),
+    path('error/', views.error, name='error'),
 ]
